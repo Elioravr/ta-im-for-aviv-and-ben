@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ta-im-for-aviv-and-ben/static/css/main.0cb3b5d2.css",
-    "main.js": "/ta-im-for-aviv-and-ben/static/js/main.c1c8a399.js",
+    "main.js": "/ta-im-for-aviv-and-ben/static/js/main.47bb7e70.js",
     "static/js/787.c4923559.chunk.js": "/ta-im-for-aviv-and-ben/static/js/787.c4923559.chunk.js",
     "static/media/rating.png": "/ta-im-for-aviv-and-ben/static/media/rating.8fc2fb419cd00cf9a67d.png",
     "index.html": "/ta-im-for-aviv-and-ben/index.html",
     "main.0cb3b5d2.css.map": "/ta-im-for-aviv-and-ben/static/css/main.0cb3b5d2.css.map",
-    "main.c1c8a399.js.map": "/ta-im-for-aviv-and-ben/static/js/main.c1c8a399.js.map",
+    "main.47bb7e70.js.map": "/ta-im-for-aviv-and-ben/static/js/main.47bb7e70.js.map",
     "787.c4923559.chunk.js.map": "/ta-im-for-aviv-and-ben/static/js/787.c4923559.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb3b5d2.css",
-    "static/js/main.c1c8a399.js"
+    "static/js/main.47bb7e70.js"
   ]
 }
